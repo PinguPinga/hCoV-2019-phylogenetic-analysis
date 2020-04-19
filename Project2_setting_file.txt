@@ -1,0 +1,6 @@
+3 // filter nodes with less than < N cases (int)
+1 // accelerate algorithm by pruning nodes with unique mutations (bool)
+1 // show all cases
+1 // show entry counts
+0 // show warning
+1 // output sort by time, otherwise sort by clade possibility (calculated penalty)
