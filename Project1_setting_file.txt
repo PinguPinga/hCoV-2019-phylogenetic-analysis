@@ -1,3 +1,4 @@
 1 // fail if >= N ORFs not detected
 20 // fail if >= N mutations detected
 1 // reject nucleotides except ACGT
+1 // be kind to all data from "taiwan"
