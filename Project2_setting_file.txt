@@ -1,0 +1,8 @@
+3 // filter non-LEAVES with less than < N cases (int)
+1 // filter LEAVES with less than < N cases (int)
+1 // accelerate algorithm by pruning nodes with unique mutations (bool)
+1 // show all cases
+1 // show entry counts
+0 // show warning
+1 // output sort by time, otherwise sort by clade possibility (calculated penalty)
+0 // be kind to all data from "taiwan"
